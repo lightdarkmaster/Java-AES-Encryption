@@ -14,3 +14,8 @@ This repository is intended for the java encryption with the use of AES algorith
 2. Descrypt text
 3. Clear text
 4. User friendly GUI
+
+# How to Use
+
+1. ![Run the app](/img/pic1.png)
+
