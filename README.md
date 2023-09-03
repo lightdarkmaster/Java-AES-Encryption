@@ -4,9 +4,9 @@ This repository is intended for the java encryption with the use of AES algorith
 
 # Tips
 
-=> Be sure to have exactly 16 characters keys.(include symbols and spaces).
-=> It will not work if the key is less than or greater than 16 characters.
-=> remember that Symbols and spaces is included in the 16 characters count.
+1. Be sure to have exactly 16 characters keys.(include symbols and spaces).
+2. It will not work if the key is less than or greater than 16 characters.
+3. remember that Symbols and spaces is included in the 16 characters count.
 
 # Features
 
