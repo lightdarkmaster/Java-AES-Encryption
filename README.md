@@ -17,17 +17,19 @@ This repository is intended for the java encryption with the use of AES algorith
 
 # How to Use
 
-## run app
+## 1. run app
 1. ![Run the app](/img/pic1.png)
-## Enter Plain text
+## 2. Enter Plain text
 2. ![Enter plain-text](/img/pic2.png)
-## Enter 16 characters Key
+## 3. Enter 16 characters Key
 3. ![Enter key](/img/pic3.png)
-## Pressn Encrypt
+## 4. Press Encrypt
 4. ![Press encrypt](/img/pic4.png)
-## Pressn Decrypt
+## 5. Press Decrypt
 5. ![encrypted text](/img/pic5.png)
-## Press Clear
+## 6. Press Clear -- to clear text fields
 6. ![Clear](/img/last.png)
+
+## Thats all --Thanks you :)
 
 
