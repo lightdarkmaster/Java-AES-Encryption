@@ -17,7 +17,7 @@ This repository is intended for the java encryption with the use of AES algorith
 
 # How to Use
 
-## 1. run app
+## 1. run app (TryingEncryption.java)
 1. ![Run the app](/img/pic1.png)
 ## 2. Enter Plain text
 2. ![Enter plain-text](/img/pic2.png)
