@@ -1,5 +1,6 @@
+
 import javax.crypto.Cipher;
-import javax.crypto.KeyGenerator;
+//import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
 import javax.crypto.spec.SecretKeySpec;
 import java.nio.charset.StandardCharsets;
@@ -48,7 +49,7 @@ public class TryingEncryption extends javax.swing.JFrame {
                 label1.setText("Enter Text");
 
                 label2.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
-                label2.setText("Keys");
+                label2.setText("16 Character Keys");
 
                 keys.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
                 keys.addActionListener(new java.awt.event.ActionListener() {
@@ -123,7 +124,7 @@ public class TryingEncryption extends javax.swing.JFrame {
 
                 label5.setFont(new java.awt.Font("Franklin Gothic Book", 1, 12)); // NOI18N
                 label5.setForeground(new java.awt.Color(255, 0, 51));
-                label5.setText("Warning: be sure to have a 16 character keys.");
+                label5.setText("Tip: be sure to have a 16 character keys.");
 
                 label6.setFont(new java.awt.Font("DialogInput", 2, 10)); // NOI18N
                 label6.setText("Created By: Christian Barbosa BSIT-AI41 (September 2-3, 2023");
@@ -377,6 +378,5 @@ public class TryingEncryption extends javax.swing.JFrame {
         private java.awt.Label label6;
         private java.awt.Label label7;
         private java.awt.TextField originaText;
-        // End of variables declaration                   
+        // End of variables declaration                 
 }
-
