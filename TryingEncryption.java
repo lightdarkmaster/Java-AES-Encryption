@@ -380,3 +380,4 @@ public class TryingEncryption extends javax.swing.JFrame {
         private java.awt.TextField originaText;
         // End of variables declaration                 
 }
+//This are the changes..
