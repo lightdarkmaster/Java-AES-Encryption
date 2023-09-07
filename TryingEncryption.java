@@ -303,8 +303,6 @@ public class TryingEncryption extends javax.swing.JFrame {
                         // Encrypt the message
                         byte[] encryptedBytes = encrypt(plainText, secretKey);
 
-                        // Decrypt the encrypted message
-                        String decryptedText = decrypt(encryptedBytes, secretKey);
 
                         //System.out.println("Original: " + plainText);
                         //System.out.println("Encrypted: " + bytesToBase64(encryptedBytes));
