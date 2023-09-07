@@ -381,3 +381,5 @@ public class TryingEncryption extends javax.swing.JFrame {
         // End of variables declaration                 
 }
 //This are the changes..
+
+//to do: create a limit to the characters in the 16 keys textfield into 16 characters only..
